@@ -4,53 +4,29 @@ bookmarks = {
 		desc = "GATHERING_STORM_DESC"
 		date = 2000.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "PCC"
+		default_country = "TES"
 		default = yes
 		
-		"PCC"={
-			history = "OTHER_GATHERING_STORM_DESC"
+		"TES"={
+			history = "TES_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
+				
+				
 			}
 			focuses = {
 			
 			}
 		}
-        
-        "RUS"={
-			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = democratic
-			ideas = {
-			}
-			focuses = {
-			
-			}
-		}
-        
-        "JPP"={
-			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = democratic
-			ideas = {
-			}
-			focuses = {
-			
-			}
-		}
-        
-        "IND"={
-			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = democratic
-			ideas = {
-			}
-			focuses = {
-			
-			}
-		}
-        
+		
 		"---"={
 			history = "OTHER_GATHERING_STORM_DESC"
 		}
-        
+		
+		# minors from DLC ####
+
+		
+
 		effect = {
 			randomize_weather = 12345 # <- Obligatory in every bookmark !
 			#123 = { rain_light = yes }
