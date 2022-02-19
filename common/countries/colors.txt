@@ -1,7 +1,116 @@
 #reload countrycolors
 
+RUS = {
+	color = rgb { 0 127 14 }
+	color_ui = rgb { 0 127 14 }
+}
+PCC = {
+	color = rgb { 175 13 0 }
+	color_ui = rgb { 175 13 0 }
+}
+MAL = {
+	color = rgb { 197  96  100 }
+	color_ui = rgb { 197  96  100 }
+}
+INS = {
+	color = rgb { 40  50  120 }
+	color_ui = rgb { 40  50  120 }
+}
+CAM = {
+	color = rgb { 100  71  150 }
+	color_ui = rgb { 100  71  150 }
+}
+PHI = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 152 130 191 }
+}
+JPP = {
+	color = rgb { 252 201 185 }
+	color_ui = rgb { 252 201 185 }
+}
+KYR = {
+	color = rgb { 255 255 0 }
+	color_ui = rgb { 255 255 0 }
+}
+THA = {
+	color = rgb { 171 190 152 }
+	color_ui = rgb { 171 190 152 }
+}
+LAO = {
+	color = rgb { 176  102  136 }
+	color_ui = rgb { 176  102  136 }
+}
 
-TES = {
-	color = rgb { 150 150 150 }
-	color_ui = rgb { 150 150 150 }
+VIE = {
+	color = rgb { 230  223  50 }
+	color_ui = rgb { 230  223  50 }
+}
+BAN = {
+    color = rgb { 204 204 0 }
+    color_ui = rgb { 204 204 0 }
+}
+TWN = {
+	color = rgb { 0 42 177 }
+	color_ui = rgb { 0 42 177 }
+}
+KAZ = {
+	color = rgb { 75  184  203 }
+	color_ui = rgb { 75  184  203 }
+}
+MON = {
+	color = rgb { 92 92 92 }
+	color_ui = rgb { 92 92 92 }
+}
+BHU = {
+	color = rgb { 172 122 88 }
+	color_ui = rgb { 172 122 88 }
+}
+MYA = {
+	color = rgb { 71 100 10 }
+	color_ui = rgb { 71 100 10 }
+}
+NEP = {
+	color = rgb { 137 183 124 }
+	color_ui = rgb { 137 183 124 }
+}
+IRN = {
+	color = rgb { 71 113 97 }
+	color_ui = rgb { 71 113 97 }
+}
+IND = {
+	color = rgb { 255 128 0 }
+	color_ui = rgb { 255 128 0 }
+}
+
+PAK = {
+	color = rgb { 80  165  10 }
+	color_ui = rgb { 80  165  10 }
+}
+AFG = {
+	color = rgb { 64 160 167 }
+	color_ui = rgb { 64 160 167 }
+}
+TRK = {
+	color = rgb { 84 210 0 }
+	color_ui = rgb { 84 210 0 }
+}
+TAJ = {
+	color = rgb { 233 211 14 }
+	color_ui = rgb { 233 211 14 }
+}
+UZB = {
+	color = rgb { 49 222 43 }
+	color_ui = rgb { 49 222 43 }
+}
+NKO = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 163 17 31 }
+}
+SKO = {
+	color = rgb { 31 71 136 }
+	color_ui = rgb { 31 71 136 }
+}
+SRL = {
+	color = rgb { 252 186 3 }
+	color_ui = rgb { 252 186 3 }
 }
