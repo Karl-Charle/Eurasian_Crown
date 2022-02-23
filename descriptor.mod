@@ -33,6 +33,5 @@ tags={
 	"Map"
 }
 picture="Thumbnail.png"
-name="Eurasia Map Resource"
-supported_version="1.9.3"
-remote_file_id="2247969706"
+name="Eurasian crown"
+supported_version="1.11.7"

@@ -1,0 +1,18 @@
+state={
+	id=5
+	name="STATE_5"
+	provinces={
+        15041 15042 15043 15048 15049 15052 15053 15054 15055 15057 5994 1432 7454 6196 6682 10244 5254 10289 1032 15058 10337 7616 8908 5578 2944 10336 7026 1806
+    }
+	
+	history={
+		owner = TES
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}
