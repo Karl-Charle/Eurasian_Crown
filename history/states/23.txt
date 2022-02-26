@@ -1,0 +1,18 @@
+state={
+	id=23
+	name="STATE_23"
+	provinces={
+        4771 3991 5645 5662 6424 9342 8417 4657 2439 14872 14862 14842 14879 14811 14841 14821 2648 14870 14877 9056 9001 9528 7875
+    }
+	
+	history={
+		owner = TES
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

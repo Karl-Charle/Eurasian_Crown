@@ -1,0 +1,18 @@
+state={
+	id=25
+	name="STATE_25"
+	provinces={
+        15128 15131 15135 15136 15138 15132 15140 15143 15145 15146 15147 12805 12863 12905 12792 15134 7893 12952 8203 8042 8047 6906 6565 6169 6258 6123 4862 4699 3496 3047
+    }
+	
+	history={
+		owner = TES
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}
