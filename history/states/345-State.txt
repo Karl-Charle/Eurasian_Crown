@@ -1,0 +1,34 @@
+state = {
+	id = 345
+	name = "STATE_345"
+
+	resources = {
+		metal = 6
+		water = 6
+		circuitry = 4
+	}
+
+	history={
+		owner = TCA
+		add_core_of = TCA
+		victory_points = {
+			4300 10
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 2
+			4319 = {
+				naval_base = 1
+			}
+		}
+
+	}
+
+	provinces={
+		1470 1948 1950 3888 4032 4033 4034 4126 4299 4300 4319 8564 8565
+	}
+	manpower=5000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

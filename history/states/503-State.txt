@@ -1,0 +1,29 @@
+state = {
+	id = 503
+	name = "STATE_503"
+	resources={
+		metal= 4
+		water = 8
+	}
+
+	history={
+		owner = ASF
+		add_core_of = ASF
+		victory_points = {
+			5588 5
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+
+		}
+
+	}
+
+	provinces={
+		5588 5589 5682 5683 6767 6768
+	}
+	manpower=7000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,36 @@
+state = {
+	id = 611
+	name = "STATE_611"
+	resources={
+		water = 4
+		circuitry = 6
+		metal = 8
+	}
+
+	history={
+		owner = LON
+		add_core_of = LON
+		victory_points = {
+			8351 10
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 1
+			air_base = 1
+			309 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		309 1555 1556 1557 2584 4526 8326 8328 8329 8346 8347 8348 8350 8351 8352
+	}
+	manpower=11690
+	buildings_max_level_factor=1.000
+	state_category=town
+}

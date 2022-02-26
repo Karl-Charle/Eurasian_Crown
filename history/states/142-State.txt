@@ -1,0 +1,27 @@
+state = {
+	id = 142
+	name = "STATE_142"
+	resources={
+		advanced=4
+	}
+
+	history={
+		owner = WHI
+		add_core_of = WHI
+		victory_points = {
+			3800 5
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		260 2119 2155 3800 3801 3805 3807 3809 8483
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

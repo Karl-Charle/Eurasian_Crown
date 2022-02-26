@@ -1,0 +1,32 @@
+state = {
+	id = 193
+	name = "STATE_193"
+	resources={
+		metal = 8
+		circuitry = 4
+	}
+
+	history={
+		owner = CLJ
+		add_core_of = CLJ
+		victory_points = {
+			6692 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			dockyard = 2
+			6693 = {
+				naval_base = 1
+			}
+		}
+
+	}
+
+	provinces={
+		1561 6653 6692 6693 6678 6698 6699 6700 6703 6702 9160 9158 9162 9161 6683 9143
+	}
+	manpower=2000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

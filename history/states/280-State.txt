@@ -1,0 +1,24 @@
+state = {
+	id = 280
+	name = "STATE_280"
+
+	history={
+		owner = HGH
+		add_core_of = HGH
+		victory_points = {
+			4564 5
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		1386 1741 1742 4224 4563 4564
+	}
+	manpower=1500
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

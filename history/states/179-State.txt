@@ -1,0 +1,32 @@
+state = {
+	id = 179
+	name = "STATE_179"
+	manpower = 12000
+	state_category = city
+
+	resources = {
+		energy = 36
+		composites = 12
+	}
+
+	history = {
+		owner = TOC
+		add_core_of = TOC
+		victory_points = {
+			3926 15
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			3926 = {
+				naval_base = 3
+			}
+		}
+	}
+
+	provinces = {
+		3928 3926 3927 1933 3925 7381 4008 1514 1934 3914 3915 7380 1515 3922 3924 3919 3923 3921
+	}
+}

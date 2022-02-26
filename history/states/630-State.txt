@@ -1,0 +1,26 @@
+state = {
+	id = 630
+	name = "STATE_630"
+	manpower = 5000
+	state_category = town
+
+	resources={
+		water = 2
+		metal = 6
+	}
+
+	history = {
+		owner = INR
+		add_core_of = INR
+		victory_points = {
+			6748 10
+		}
+		buildings = {
+		}
+
+	}
+
+	provinces = {
+		6742 6743 6744 6745 6746 6749 6747 6748 6750 6751 6752 9107 9104 9113 9110 9114 9112
+	}
+}

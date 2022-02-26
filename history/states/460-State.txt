@@ -1,0 +1,21 @@
+state = {
+	id = 460
+	name = "STATE_460"
+	manpower = 4000
+	state_category = shanty
+
+	history = {
+		owner = HAN
+		add_core_of = HAN
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			9012 10
+		}
+	}
+
+	provinces = {
+		6792 1792 6793 5574 5722 6850 5572 5720 1794 5721 5723 1793 9013 9012
+	}
+}

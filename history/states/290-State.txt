@@ -1,0 +1,28 @@
+state = {
+	id = 290
+	name = "STATE_290"
+	resources={
+		metal = 12
+	}
+
+	history={
+		owner = HEA
+		add_core_of = HEA
+		victory_points = {
+			4573 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+
+		}
+
+	}
+
+	provinces={
+		2136 2596 4530 4531 4536 4537 4572 4573 7493
+	}
+	manpower=4200
+	buildings_max_level_factor=1.000
+	state_category=shanty
+}

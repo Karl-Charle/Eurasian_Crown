@@ -1,0 +1,21 @@
+state = {
+	id = 340
+	name = "STATE_340"
+	manpower = 2200
+	state_category = rural
+
+	history = {
+		owner = UMB
+		add_core_of = UMB
+		victory_points = {
+			8578 5
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		1761 1758 8583 8580 8579 8578 8581 8582
+	}
+}

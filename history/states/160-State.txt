@@ -1,0 +1,30 @@
+state = {
+	id = 160
+	name = "STATE_160"
+	resources={
+		metal = 8
+		composites = 4
+	}
+
+	history={
+		owner = YKZ
+		add_core_of = YKZ
+		victory_points = {
+			9187 20
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 1
+			air_base = 1
+		}
+
+	}
+
+	provinces={
+		4948 8807 9183 9179 9180 9181 9185 9184 9188 9187 9189 9191 9190 9192 9193 9194 9195 9196 9182
+	}
+	manpower=17000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

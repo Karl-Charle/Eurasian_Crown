@@ -1,0 +1,28 @@
+state = {
+	id = 307
+	name = "STATE_307"
+	resources={
+		composites = 8
+	}
+
+	history={
+		owner = DES
+		add_core_of = DES
+		victory_points = {
+			2003 5
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		1071 1589 2003 5057 8743 8810
+	}
+	manpower=5000
+	buildings_max_level_factor=1.000
+	state_category=shanty
+}

@@ -1,0 +1,29 @@
+state = {
+	id = 300
+	name = "STATE_300"
+	manpower = 6000
+	state_category = town
+
+	resources = {
+		water = 8
+		energy = 4
+	}
+
+	history = {
+		owner = TOC
+		add_core_of = TOC
+		victory_points = {
+			1500 10
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 1
+		}
+	}
+
+	provinces = {
+		1500 1936 4009 4011 4047 4320 4329 4331 7378 7379 7514 7515 4330 4045 4046
+	}
+}

@@ -1,0 +1,31 @@
+state = {
+	id = 51
+	name = "STATE_51"
+	manpower = 9000
+	state_category = city
+
+	resources = {
+		metal = 4
+	}
+
+	history = {
+		owner = TIM #Old Yakama
+		add_core_of = TIM #Old Yakama
+		victory_points = {
+			1494 15
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			4042 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces = {
+		1482 1494 1970 4041 4042 4043 4044 5745 5746 5747 5748 5749 5750 5758 7512 7513
+	}
+}

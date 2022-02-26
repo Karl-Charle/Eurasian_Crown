@@ -1,0 +1,21 @@
+state = {
+	id = 648
+	name = "STATE_648"
+	impassable = yes
+	manpower = 100
+	state_category = wasteland
+	resources = {
+	}
+
+	history = {
+		owner = YMP
+		add_core_of = YMP
+		buildings = {
+
+		}
+	}
+
+	provinces = {
+		6658
+	}
+}

@@ -1,0 +1,35 @@
+state = {
+	id = 172
+	name = "STATE_172"
+	resources={
+		energy = 1
+		metal = 3
+	}
+
+	history={
+		owner = HGH
+		add_core_of = HGH
+		victory_points = {
+			4360 6
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 1
+			4360 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1419 1424 2507 4208 4209 4210 4359 4360 4461 4462 4487
+	}
+	manpower=3200
+	buildings_max_level_factor=1.000
+	state_category=town
+}

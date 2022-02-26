@@ -1,0 +1,38 @@
+state = {
+	id = 554
+	name = "STATE_554"
+	manpower = 29500
+	state_category = city
+
+	resources={
+		metal = 10
+		water = 6
+		composites = 4
+		circuitry = 4
+		advanced = 2
+	}
+
+	history = {
+		owner = TTM
+		add_core_of = TTM
+		victory_points = {
+			5583 20
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 3
+			dockyard = 1
+			anti_air_building = 2
+			air_base = 2
+			radar_station = 2
+			5583 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces = {
+		1570 1575 1817 2985 5577 5579 5580 5581 5582 5583 5724 6571 6753 6754 6755 6756 6757 9105
+	}
+}
