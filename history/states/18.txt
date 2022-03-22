@@ -2,11 +2,10 @@ state={
 	id=18
 	name="STATE_18"
 	provinces={
-        3111
+        3111 549 1602 6666 11767 11774
     }
 	
 	history={
-		owner = TES
 		buildings = {
 			infrastructure = 1
 		}
