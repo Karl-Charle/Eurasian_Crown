@@ -29,6 +29,7 @@ replace_path="common/units/names_ships"
 replace_path="common/units/codenames_operatives"
 replace_path="events"
 replace_path="music"
+replace_path="map"
 tags={
 	"Map"
 }
