@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 #reload countrycolors
 
 
 TES = {
 	color = rgb { 150 150 150 }
 	color_ui = rgb { 150 150 150 }
-=======
-#reload countrycolors
-
-
-TES = {
-	color = rgb { 150 150 150 }
-	color_ui = rgb { 150 150 150 }
->>>>>>> parent of bd20eee... a
 }

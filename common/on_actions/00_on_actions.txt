@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 on_actions = {
 	# country 
 }
-=======
-on_actions = {
-	# country 
-}
->>>>>>> parent of bd20eee... a

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 version="1.11.9"
-=======
-version="0.0"
->>>>>>> parent of bd20eee... a
 replace_path="history/countries"
 replace_path="history/states"
 replace_path="history/units"
@@ -38,11 +34,5 @@ tags={
 	"Map"
 }
 picture="Thumbnail.png"
-<<<<<<< HEAD
 name="Eurasian crown"
 supported_version="1.11.9"
-=======
-name="Eurasia Map Resource"
-supported_version="1.9.3"
-remote_file_id="2247969706"
->>>>>>> parent of bd20eee... a

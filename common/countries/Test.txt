@@ -1,14 +1,6 @@
-<<<<<<< HEAD:common/countries/Test.txt
 
 
 graphical_culture = eastern_european_gfx
 graphical_culture_2d = eastern_european_2d
 
-=======
-
-
-graphical_culture = eastern_european_gfx
-graphical_culture_2d = eastern_european_2d
-
->>>>>>> parent of bd20eee... a:common/countries/Russia.txt
 color = rgb { 150 150 150 }
