@@ -4,6 +4,14 @@ state={
 	provinces={
         13264 15141 15139 15137 13306 4530 2481
     }
+	
+	history={
+		owner = TES
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category = wasteland
