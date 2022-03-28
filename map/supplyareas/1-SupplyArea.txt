@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 supply_area={
 	id=1
 	name="SUPPLYAREA_1"
@@ -6,3 +7,13 @@ supply_area={
 		1 
 	}
 }
+=======
+supply_area={
+	id=1
+	name="SUPPLYAREA_1"
+	value=0
+	states={
+		1 
+	}
+}
+>>>>>>> parent of bd20eee... a
