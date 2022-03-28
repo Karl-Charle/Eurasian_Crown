@@ -34,4 +34,4 @@ tags={
 }
 picture="Thumbnail.png"
 name="Eurasian crown"
-supported_version="1.11.7"
+supported_version="1.11.9"
