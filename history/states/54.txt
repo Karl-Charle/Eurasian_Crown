@@ -5,6 +5,7 @@ state={
 		5312
     }
 	history={
+		owner = TES
 		buildings = {
 			infrastructure = 1
 		}
