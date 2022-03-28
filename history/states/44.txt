@@ -4,13 +4,7 @@ state={
 	provinces={
         17277 17281 17282 2268 17279 17283 269 5944 5517 8921 213 784 3309 17287 17290 5346 1346
     }
-	
-	history={
-		buildings = {
-			infrastructure = 1
-		}
-	}
-	
+
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category = wasteland
