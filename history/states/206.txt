@@ -5,7 +5,6 @@ state={
     }
 	
 	history={
-		owner = TES
 		buildings = {
 			infrastructure = 1
 		}
